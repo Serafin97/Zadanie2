@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zadanie 2 java</string>
+    <string name="checkbox_1">checkbox1</string>
+    <string name="checkbox_2">checkbox2</string>
+
+
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+
+</resources>
